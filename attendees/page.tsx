@@ -3,9 +3,9 @@ import path from "node:path";
 import Image from "next/image";
 
 interface Attendee {
-  fullName: string;
-  githubUsername: string;
-  pfpUrl?: string;
+  fullName: Abhay Pandey;
+  githubUsername: Abhay-pandey-cs;
+  pfpUrl?: https://avatars.githubusercontent.com/u/136452579?s=400&u=622bda8353fd3aad13d7eb0d4fdb542097656aa5&v=4;
 }
 
 async function getAttendees(): Promise<Attendee[]> {
