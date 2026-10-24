@@ -60,8 +60,8 @@ Add the following information to your JSON file:
 ```json
 {
   "fullName": "Divyanshu",
-  "githubUsername": "AudaciousDivyanshuj",
-  "pfpUrl": "https://github.com/YOUR-GITHUB-USERNAME.png](https://github.com/AudaciousDivyanshu"
+  "githubUsername": "AudaciousDivyanshu",
+  "pfpUrl": "https://github.com/AudaciousDivyanshu"
 }
 ```
 
@@ -71,9 +71,9 @@ Replace the placeholder values with your own information.
 
 | Field | Description |
 |---|---|
-| `fullName` | Your full name |
-| `githubUsername` | Your exact GitHub username |
-| `pfpUrl` | Your GitHub profile picture URL |
+| `fullName` | Divyanshu Sisodiya|
+| `githubUsername` | AudaciousDivyanshu |
+| `pfpUrl` | https://github.com/AudaciousDivyanshu |
 
 **A few rules:**
 - Use valid JSON syntax and double quotes.
